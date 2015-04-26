@@ -1,0 +1,5 @@
+D:\lab_net\PaginaDados\PaginaDados\bin\Debug\PaginaDados.dll
+D:\lab_net\PaginaDados\PaginaDados\bin\Debug\PaginaDados.pdb
+D:\lab_net\PaginaDados\PaginaDados\obj\Debug\PaginaDados.csprojResolveAssemblyReference.cache
+D:\lab_net\PaginaDados\PaginaDados\obj\Debug\PaginaDados.dll
+D:\lab_net\PaginaDados\PaginaDados\obj\Debug\PaginaDados.pdb

@@ -1,0 +1,7 @@
+D:\lab_net\PaginaDados\UnitTestPaginaDados\obj\Debug\UnitTestPaginaDados.csprojResolveAssemblyReference.cache
+D:\lab_net\PaginaDados\UnitTestPaginaDados\bin\Debug\UnitTestPaginaDados.dll
+D:\lab_net\PaginaDados\UnitTestPaginaDados\bin\Debug\UnitTestPaginaDados.pdb
+D:\lab_net\PaginaDados\UnitTestPaginaDados\obj\Debug\UnitTestPaginaDados.dll
+D:\lab_net\PaginaDados\UnitTestPaginaDados\obj\Debug\UnitTestPaginaDados.pdb
+D:\lab_net\PaginaDados\UnitTestPaginaDados\bin\Debug\PaginaDados.dll
+D:\lab_net\PaginaDados\UnitTestPaginaDados\bin\Debug\PaginaDados.pdb
